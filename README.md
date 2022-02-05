@@ -27,6 +27,9 @@
 - BTC = bc1qkgpe9ylxpr4wd4chruun7vc9eu75g3uura4q8m
 - LTC = LUKr4Hcpm5RsCM1DjKrjs5aANgUSbLQFi2
 - ETH = 0x197C7407E4fBf3516AE901CeC4515bc6413986c4
+
 **Any donations to any address will be very appreciated!**
+
+---------------------------------------
 
 Educational Purposes only.
