@@ -9,6 +9,8 @@
 - Fast & Efficient
 - Multi Tasked
 - Special Features
+- Multi Token
+- Proxy Support (http/socks4/socks5)
 
 ---------------------------------------
 
