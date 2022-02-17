@@ -1,4 +1,4 @@
-# Protocol - Mass Mention
+# Protocol - Mass Mention [BROKEN DUE TO DISCUM]
 
 (i havent tested this with any token other than my own token so idk if the multi token part works or not if it doesn't do a pull request ill add it)
 
