@@ -2,7 +2,7 @@
 
 (i havent tested this with any token other than my own token so idk if the multi token part works or not if it doesn't do a pull request ill add it)
 
-### **Welcome to Protocol! this project is a project i been working on lately, if you want anything added to this do a issue and ill see about it! other than that except many other tools and a lot from this project!**
+### **Welcome to Protocol! this project is a project i been working on lately, if you want anything added to this do a issue and ill see about it! other than that expect many other tools and a lot from this project!**
 
 ### **Optimizations**
 - Asynchronous
